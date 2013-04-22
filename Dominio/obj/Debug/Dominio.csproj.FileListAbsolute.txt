@@ -1,0 +1,173 @@
+D:\Faculdade\2012\4 periodo\Marcelo\MongoAplicationII\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+D:\Faculdade\2012\4 periodo\Marcelo\MongoAplicationII\Dominio\bin\Debug\Dominio.dll
+D:\Faculdade\2012\4 periodo\Marcelo\MongoAplicationII\Dominio\bin\Debug\Dominio.pdb
+D:\Faculdade\2012\4 periodo\Marcelo\MongoAplicationII\Dominio\bin\Debug\MongoDB.Bson.dll
+D:\Faculdade\2012\4 periodo\Marcelo\MongoAplicationII\Dominio\bin\Debug\Repositorio.dll
+D:\Faculdade\2012\4 periodo\Marcelo\MongoAplicationII\Dominio\bin\Debug\MongoDB.Driver.dll
+D:\Faculdade\2012\4 periodo\Marcelo\MongoAplicationII\Dominio\bin\Debug\Repositorio.pdb
+D:\Faculdade\2012\4 periodo\Marcelo\MongoAplicationII\Dominio\bin\Debug\MongoDB.Bson.pdb
+D:\Faculdade\2012\4 periodo\Marcelo\MongoAplicationII\Dominio\bin\Debug\MongoDB.Bson.xml
+D:\Faculdade\2012\4 periodo\Marcelo\MongoAplicationII\Dominio\bin\Debug\MongoDB.Driver.pdb
+D:\Faculdade\2012\4 periodo\Marcelo\MongoAplicationII\Dominio\bin\Debug\MongoDB.Driver.xml
+D:\Faculdade\2012\4 periodo\Marcelo\MongoAplicationII\Dominio\obj\Debug\Dominio.dll
+D:\Faculdade\2012\4 periodo\Marcelo\MongoAplicationII\Dominio\obj\Debug\Dominio.pdb
+E:\Asp Net\MongoAplicationII\Dominio\bin\Debug\Dominio.dll
+E:\Asp Net\MongoAplicationII\Dominio\bin\Debug\Dominio.pdb
+E:\Asp Net\MongoAplicationII\Dominio\bin\Debug\Repositorio.dll
+E:\Asp Net\MongoAplicationII\Dominio\bin\Debug\MongoDB.Driver.dll
+E:\Asp Net\MongoAplicationII\Dominio\bin\Debug\Repositorio.pdb
+E:\Asp Net\MongoAplicationII\Dominio\bin\Debug\MongoDB.Bson.pdb
+E:\Asp Net\MongoAplicationII\Dominio\bin\Debug\MongoDB.Bson.xml
+E:\Asp Net\MongoAplicationII\Dominio\bin\Debug\MongoDB.Driver.pdb
+E:\Asp Net\MongoAplicationII\Dominio\bin\Debug\MongoDB.Driver.xml
+E:\Asp Net\MongoAplicationII\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+E:\Asp Net\MongoAplicationII\Dominio\obj\Debug\Dominio.dll
+E:\Asp Net\MongoAplicationII\Dominio\obj\Debug\Dominio.pdb
+C:\Users\designer\Dropbox\Programaçao\SiteMotopam\Dominio\bin\Debug\Dominio.dll
+C:\Users\designer\Dropbox\Programaçao\SiteMotopam\Dominio\bin\Debug\Dominio.pdb
+C:\Users\designer\Dropbox\Programaçao\SiteMotopam\Dominio\bin\Debug\Repositorio.dll
+C:\Users\designer\Dropbox\Programaçao\SiteMotopam\Dominio\bin\Debug\MongoDB.Driver.dll
+C:\Users\designer\Dropbox\Programaçao\SiteMotopam\Dominio\bin\Debug\Repositorio.pdb
+C:\Users\designer\Dropbox\Programaçao\SiteMotopam\Dominio\bin\Debug\MongoDB.Bson.pdb
+C:\Users\designer\Dropbox\Programaçao\SiteMotopam\Dominio\bin\Debug\MongoDB.Bson.xml
+C:\Users\designer\Dropbox\Programaçao\SiteMotopam\Dominio\bin\Debug\MongoDB.Driver.pdb
+C:\Users\designer\Dropbox\Programaçao\SiteMotopam\Dominio\bin\Debug\MongoDB.Driver.xml
+C:\Users\designer\Dropbox\Programaçao\SiteMotopam\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\designer\Dropbox\Programaçao\SiteMotopam\Dominio\obj\Debug\Dominio.dll
+C:\Users\designer\Dropbox\Programaçao\SiteMotopam\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Wellington\Dropbox\Programaçao\SiteMotopam\Dominio\bin\Debug\Dominio.dll
+C:\Users\Wellington\Dropbox\Programaçao\SiteMotopam\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Wellington\Dropbox\Programaçao\SiteMotopam\Dominio\bin\Debug\Repositorio.dll
+C:\Users\Wellington\Dropbox\Programaçao\SiteMotopam\Dominio\bin\Debug\MongoDB.Driver.dll
+C:\Users\Wellington\Dropbox\Programaçao\SiteMotopam\Dominio\bin\Debug\Repositorio.pdb
+C:\Users\Wellington\Dropbox\Programaçao\SiteMotopam\Dominio\bin\Debug\MongoDB.Bson.pdb
+C:\Users\Wellington\Dropbox\Programaçao\SiteMotopam\Dominio\bin\Debug\MongoDB.Bson.xml
+C:\Users\Wellington\Dropbox\Programaçao\SiteMotopam\Dominio\bin\Debug\MongoDB.Driver.pdb
+C:\Users\Wellington\Dropbox\Programaçao\SiteMotopam\Dominio\bin\Debug\MongoDB.Driver.xml
+C:\Users\Wellington\Dropbox\Programaçao\SiteMotopam\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Wellington\Dropbox\Programaçao\SiteMotopam\Dominio\obj\Debug\Dominio.dll
+C:\Users\Wellington\Dropbox\Programaçao\SiteMotopam\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Wellington\Dropbox\Programaçao\SiteMotopamCopy\Dominio\bin\Debug\Dominio.dll
+C:\Users\Wellington\Dropbox\Programaçao\SiteMotopamCopy\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Wellington\Dropbox\Programaçao\SiteMotopamCopy\Dominio\bin\Debug\MongoDB.Bson.dll
+C:\Users\Wellington\Dropbox\Programaçao\SiteMotopamCopy\Dominio\bin\Debug\MongoDB.Driver.dll
+C:\Users\Wellington\Dropbox\Programaçao\SiteMotopamCopy\Dominio\bin\Debug\Repositorio.dll
+C:\Users\Wellington\Dropbox\Programaçao\SiteMotopamCopy\Dominio\bin\Debug\Repositorio.pdb
+C:\Users\Wellington\Dropbox\Programaçao\SiteMotopamCopy\Dominio\bin\Debug\MongoDB.Bson.pdb
+C:\Users\Wellington\Dropbox\Programaçao\SiteMotopamCopy\Dominio\bin\Debug\MongoDB.Bson.xml
+C:\Users\Wellington\Dropbox\Programaçao\SiteMotopamCopy\Dominio\bin\Debug\MongoDB.Driver.pdb
+C:\Users\Wellington\Dropbox\Programaçao\SiteMotopamCopy\Dominio\bin\Debug\MongoDB.Driver.xml
+C:\Users\Wellington\Dropbox\Programaçao\SiteMotopamCopy\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Wellington\Dropbox\Programaçao\SiteMotopamCopy\Dominio\obj\Debug\Dominio.dll
+C:\Users\Wellington\Dropbox\Programaçao\SiteMotopamCopy\Dominio\obj\Debug\Dominio.pdb
+C:\Users\designer\Dropbox\Programaçao\SiteMotopamCopy\Dominio\bin\Debug\Dominio.dll
+C:\Users\designer\Dropbox\Programaçao\SiteMotopamCopy\Dominio\bin\Debug\Dominio.pdb
+C:\Users\designer\Dropbox\Programaçao\SiteMotopamCopy\Dominio\bin\Debug\MongoDB.Bson.dll
+C:\Users\designer\Dropbox\Programaçao\SiteMotopamCopy\Dominio\bin\Debug\MongoDB.Driver.dll
+C:\Users\designer\Dropbox\Programaçao\SiteMotopamCopy\Dominio\bin\Debug\Repositorio.dll
+C:\Users\designer\Dropbox\Programaçao\SiteMotopamCopy\Dominio\bin\Debug\Repositorio.pdb
+C:\Users\designer\Dropbox\Programaçao\SiteMotopamCopy\Dominio\bin\Debug\MongoDB.Bson.pdb
+C:\Users\designer\Dropbox\Programaçao\SiteMotopamCopy\Dominio\bin\Debug\MongoDB.Bson.xml
+C:\Users\designer\Dropbox\Programaçao\SiteMotopamCopy\Dominio\bin\Debug\MongoDB.Driver.pdb
+C:\Users\designer\Dropbox\Programaçao\SiteMotopamCopy\Dominio\bin\Debug\MongoDB.Driver.xml
+C:\Users\designer\Dropbox\Programaçao\SiteMotopamCopy\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\designer\Dropbox\Programaçao\SiteMotopamCopy\Dominio\obj\Debug\Dominio.dll
+C:\Users\designer\Dropbox\Programaçao\SiteMotopamCopy\Dominio\obj\Debug\Dominio.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy15-02-v06\Dominio\bin\Debug\Dominio.dll
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy15-02-v06\Dominio\bin\Debug\Dominio.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy15-02-v06\Dominio\bin\Debug\MongoDB.Bson.dll
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy15-02-v06\Dominio\bin\Debug\MongoDB.Driver.dll
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy15-02-v06\Dominio\bin\Debug\Repositorio.dll
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy15-02-v06\Dominio\bin\Debug\Repositorio.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy15-02-v06\Dominio\bin\Debug\MongoDB.Bson.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy15-02-v06\Dominio\bin\Debug\MongoDB.Bson.xml
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy15-02-v06\Dominio\bin\Debug\MongoDB.Driver.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy15-02-v06\Dominio\bin\Debug\MongoDB.Driver.xml
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy15-02-v06\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy15-02-v06\Dominio\obj\Debug\Dominio.dll
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy15-02-v06\Dominio\obj\Debug\Dominio.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy04-03-v07\Dominio\bin\Debug\Dominio.dll
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy04-03-v07\Dominio\bin\Debug\Dominio.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy04-03-v07\Dominio\bin\Debug\MongoDB.Bson.dll
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy04-03-v07\Dominio\bin\Debug\MongoDB.Driver.dll
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy04-03-v07\Dominio\bin\Debug\Repositorio.dll
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy04-03-v07\Dominio\bin\Debug\Repositorio.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy04-03-v07\Dominio\bin\Debug\MongoDB.Bson.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy04-03-v07\Dominio\bin\Debug\MongoDB.Bson.xml
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy04-03-v07\Dominio\bin\Debug\MongoDB.Driver.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy04-03-v07\Dominio\bin\Debug\MongoDB.Driver.xml
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy04-03-v07\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy04-03-v07\Dominio\obj\Debug\Dominio.dll
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy04-03-v07\Dominio\obj\Debug\Dominio.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\09 - envio de email - 05-03-13\Dominio\bin\Debug\Dominio.dll
+E:\Asp Net\BACKUP MOTOPRATICO\09 - envio de email - 05-03-13\Dominio\bin\Debug\Dominio.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\09 - envio de email - 05-03-13\Dominio\bin\Debug\MongoDB.Bson.dll
+E:\Asp Net\BACKUP MOTOPRATICO\09 - envio de email - 05-03-13\Dominio\bin\Debug\MongoDB.Driver.dll
+E:\Asp Net\BACKUP MOTOPRATICO\09 - envio de email - 05-03-13\Dominio\bin\Debug\Repositorio.dll
+E:\Asp Net\BACKUP MOTOPRATICO\09 - envio de email - 05-03-13\Dominio\bin\Debug\Repositorio.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\09 - envio de email - 05-03-13\Dominio\bin\Debug\MongoDB.Bson.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\09 - envio de email - 05-03-13\Dominio\bin\Debug\MongoDB.Bson.xml
+E:\Asp Net\BACKUP MOTOPRATICO\09 - envio de email - 05-03-13\Dominio\bin\Debug\MongoDB.Driver.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\09 - envio de email - 05-03-13\Dominio\bin\Debug\MongoDB.Driver.xml
+E:\Asp Net\BACKUP MOTOPRATICO\09 - envio de email - 05-03-13\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+E:\Asp Net\BACKUP MOTOPRATICO\09 - envio de email - 05-03-13\Dominio\obj\Debug\Dominio.dll
+E:\Asp Net\BACKUP MOTOPRATICO\09 - envio de email - 05-03-13\Dominio\obj\Debug\Dominio.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\10 - internet explorer - 08-03-13\Dominio\bin\Debug\Dominio.dll
+E:\Asp Net\BACKUP MOTOPRATICO\10 - internet explorer - 08-03-13\Dominio\bin\Debug\Dominio.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\10 - internet explorer - 08-03-13\Dominio\bin\Debug\MongoDB.Bson.dll
+E:\Asp Net\BACKUP MOTOPRATICO\10 - internet explorer - 08-03-13\Dominio\bin\Debug\MongoDB.Driver.dll
+E:\Asp Net\BACKUP MOTOPRATICO\10 - internet explorer - 08-03-13\Dominio\bin\Debug\Repositorio.dll
+E:\Asp Net\BACKUP MOTOPRATICO\10 - internet explorer - 08-03-13\Dominio\bin\Debug\Repositorio.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\10 - internet explorer - 08-03-13\Dominio\bin\Debug\MongoDB.Bson.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\10 - internet explorer - 08-03-13\Dominio\bin\Debug\MongoDB.Bson.xml
+E:\Asp Net\BACKUP MOTOPRATICO\10 - internet explorer - 08-03-13\Dominio\bin\Debug\MongoDB.Driver.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\10 - internet explorer - 08-03-13\Dominio\bin\Debug\MongoDB.Driver.xml
+E:\Asp Net\BACKUP MOTOPRATICO\10 - internet explorer - 08-03-13\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+E:\Asp Net\BACKUP MOTOPRATICO\10 - internet explorer - 08-03-13\Dominio\obj\Debug\Dominio.dll
+E:\Asp Net\BACKUP MOTOPRATICO\10 - internet explorer - 08-03-13\Dominio\obj\Debug\Dominio.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\11 - com representantes - 14-03-13\Dominio\bin\Debug\Dominio.dll
+E:\Asp Net\BACKUP MOTOPRATICO\11 - com representantes - 14-03-13\Dominio\bin\Debug\Dominio.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\11 - com representantes - 14-03-13\Dominio\bin\Debug\MongoDB.Bson.dll
+E:\Asp Net\BACKUP MOTOPRATICO\11 - com representantes - 14-03-13\Dominio\bin\Debug\MongoDB.Driver.dll
+E:\Asp Net\BACKUP MOTOPRATICO\11 - com representantes - 14-03-13\Dominio\bin\Debug\Repositorio.dll
+E:\Asp Net\BACKUP MOTOPRATICO\11 - com representantes - 14-03-13\Dominio\bin\Debug\Repositorio.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\11 - com representantes - 14-03-13\Dominio\bin\Debug\MongoDB.Bson.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\11 - com representantes - 14-03-13\Dominio\bin\Debug\MongoDB.Bson.xml
+E:\Asp Net\BACKUP MOTOPRATICO\11 - com representantes - 14-03-13\Dominio\bin\Debug\MongoDB.Driver.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\11 - com representantes - 14-03-13\Dominio\bin\Debug\MongoDB.Driver.xml
+E:\Asp Net\BACKUP MOTOPRATICO\11 - com representantes - 14-03-13\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+E:\Asp Net\BACKUP MOTOPRATICO\11 - com representantes - 14-03-13\Dominio\obj\Debug\Dominio.dll
+E:\Asp Net\BACKUP MOTOPRATICO\11 - com representantes - 14-03-13\Dominio\obj\Debug\Dominio.pdb
+D:\Faculdade\2013\Cleyton\TCC\Dominio\bin\Debug\Dominio.dll
+D:\Faculdade\2013\Cleyton\TCC\Dominio\bin\Debug\Dominio.pdb
+D:\Faculdade\2013\Cleyton\TCC\Dominio\bin\Debug\Repositorio.dll
+D:\Faculdade\2013\Cleyton\TCC\Dominio\bin\Debug\Repositorio.pdb
+D:\Faculdade\2013\Cleyton\TCC\Dominio\bin\Debug\MongoDB.Bson.pdb
+D:\Faculdade\2013\Cleyton\TCC\Dominio\bin\Debug\MongoDB.Bson.xml
+D:\Faculdade\2013\Cleyton\TCC\Dominio\bin\Debug\MongoDB.Driver.pdb
+D:\Faculdade\2013\Cleyton\TCC\Dominio\bin\Debug\MongoDB.Driver.xml
+D:\Faculdade\2013\Cleyton\TCC\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+D:\Faculdade\2013\Cleyton\TCC\Dominio\obj\Debug\Dominio.dll
+D:\Faculdade\2013\Cleyton\TCC\Dominio\obj\Debug\Dominio.pdb
+C:\TCC-ATUALIZADO\Dominio\bin\Debug\Dominio.dll
+C:\TCC-ATUALIZADO\Dominio\bin\Debug\Dominio.pdb
+C:\TCC-ATUALIZADO\Dominio\bin\Debug\Repositorio.dll
+C:\TCC-ATUALIZADO\Dominio\bin\Debug\Repositorio.pdb
+C:\TCC-ATUALIZADO\Dominio\bin\Debug\MongoDB.Bson.pdb
+C:\TCC-ATUALIZADO\Dominio\bin\Debug\MongoDB.Bson.xml
+C:\TCC-ATUALIZADO\Dominio\bin\Debug\MongoDB.Driver.pdb
+C:\TCC-ATUALIZADO\Dominio\bin\Debug\MongoDB.Driver.xml
+C:\TCC-ATUALIZADO\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\TCC-ATUALIZADO\Dominio\obj\Debug\Dominio.dll
+C:\TCC-ATUALIZADO\Dominio\obj\Debug\Dominio.pdb
+D:\Asp Net\TCC\Dominio\bin\Debug\Dominio.dll
+D:\Asp Net\TCC\Dominio\bin\Debug\Dominio.pdb
+D:\Asp Net\TCC\Dominio\bin\Debug\Repositorio.dll
+D:\Asp Net\TCC\Dominio\bin\Debug\Repositorio.pdb
+D:\Asp Net\TCC\Dominio\bin\Debug\MongoDB.Bson.pdb
+D:\Asp Net\TCC\Dominio\bin\Debug\MongoDB.Bson.xml
+D:\Asp Net\TCC\Dominio\bin\Debug\MongoDB.Driver.pdb
+D:\Asp Net\TCC\Dominio\bin\Debug\MongoDB.Driver.xml
+D:\Asp Net\TCC\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+D:\Asp Net\TCC\Dominio\obj\Debug\Dominio.dll
+D:\Asp Net\TCC\Dominio\obj\Debug\Dominio.pdb

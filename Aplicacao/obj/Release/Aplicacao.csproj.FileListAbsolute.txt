@@ -1,0 +1,105 @@
+C:\Users\designer\Dropbox\Programaçao\SiteMotopamCopy\Aplicacao\bin\Release\Aplicacao.dll
+C:\Users\designer\Dropbox\Programaçao\SiteMotopamCopy\Aplicacao\bin\Release\Aplicacao.pdb
+C:\Users\designer\Dropbox\Programaçao\SiteMotopamCopy\Aplicacao\bin\Release\Dominio.dll
+C:\Users\designer\Dropbox\Programaçao\SiteMotopamCopy\Aplicacao\bin\Release\MongoDB.Bson.dll
+C:\Users\designer\Dropbox\Programaçao\SiteMotopamCopy\Aplicacao\bin\Release\MongoDB.Driver.dll
+C:\Users\designer\Dropbox\Programaçao\SiteMotopamCopy\Aplicacao\bin\Release\Repositorio.dll
+C:\Users\designer\Dropbox\Programaçao\SiteMotopamCopy\Aplicacao\bin\Release\Dominio.pdb
+C:\Users\designer\Dropbox\Programaçao\SiteMotopamCopy\Aplicacao\bin\Release\Repositorio.pdb
+C:\Users\designer\Dropbox\Programaçao\SiteMotopamCopy\Aplicacao\bin\Release\MongoDB.Bson.pdb
+C:\Users\designer\Dropbox\Programaçao\SiteMotopamCopy\Aplicacao\bin\Release\MongoDB.Bson.xml
+C:\Users\designer\Dropbox\Programaçao\SiteMotopamCopy\Aplicacao\bin\Release\MongoDB.Driver.pdb
+C:\Users\designer\Dropbox\Programaçao\SiteMotopamCopy\Aplicacao\bin\Release\MongoDB.Driver.xml
+C:\Users\designer\Dropbox\Programaçao\SiteMotopamCopy\Aplicacao\obj\Release\Aplicacao.csprojResolveAssemblyReference.cache
+C:\Users\designer\Dropbox\Programaçao\SiteMotopamCopy\Aplicacao\obj\Release\Aplicacao.dll
+C:\Users\designer\Dropbox\Programaçao\SiteMotopamCopy\Aplicacao\obj\Release\Aplicacao.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy15-02-v06\Aplicacao\bin\Release\Aplicacao.dll
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy15-02-v06\Aplicacao\bin\Release\Aplicacao.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy15-02-v06\Aplicacao\bin\Release\Dominio.dll
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy15-02-v06\Aplicacao\bin\Release\MongoDB.Bson.dll
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy15-02-v06\Aplicacao\bin\Release\MongoDB.Driver.dll
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy15-02-v06\Aplicacao\bin\Release\Repositorio.dll
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy15-02-v06\Aplicacao\bin\Release\Dominio.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy15-02-v06\Aplicacao\bin\Release\Repositorio.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy15-02-v06\Aplicacao\bin\Release\MongoDB.Bson.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy15-02-v06\Aplicacao\bin\Release\MongoDB.Bson.xml
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy15-02-v06\Aplicacao\bin\Release\MongoDB.Driver.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy15-02-v06\Aplicacao\bin\Release\MongoDB.Driver.xml
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy15-02-v06\Aplicacao\obj\Release\Aplicacao.csprojResolveAssemblyReference.cache
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy15-02-v06\Aplicacao\obj\Release\Aplicacao.dll
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy15-02-v06\Aplicacao\obj\Release\Aplicacao.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy04-03-v07\Aplicacao\bin\Release\Aplicacao.dll
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy04-03-v07\Aplicacao\bin\Release\Aplicacao.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy04-03-v07\Aplicacao\bin\Release\Dominio.dll
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy04-03-v07\Aplicacao\bin\Release\MongoDB.Bson.dll
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy04-03-v07\Aplicacao\bin\Release\MongoDB.Driver.dll
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy04-03-v07\Aplicacao\bin\Release\Repositorio.dll
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy04-03-v07\Aplicacao\bin\Release\Dominio.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy04-03-v07\Aplicacao\bin\Release\Repositorio.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy04-03-v07\Aplicacao\bin\Release\MongoDB.Bson.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy04-03-v07\Aplicacao\bin\Release\MongoDB.Bson.xml
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy04-03-v07\Aplicacao\bin\Release\MongoDB.Driver.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy04-03-v07\Aplicacao\bin\Release\MongoDB.Driver.xml
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy04-03-v07\Aplicacao\obj\Release\Aplicacao.csprojResolveAssemblyReference.cache
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy04-03-v07\Aplicacao\obj\Release\Aplicacao.dll
+E:\Asp Net\BACKUP MOTOPRATICO\SiteMotopamCopy04-03-v07\Aplicacao\obj\Release\Aplicacao.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\09 - envio de email - 05-03-13\Aplicacao\bin\Release\Aplicacao.dll
+E:\Asp Net\BACKUP MOTOPRATICO\09 - envio de email - 05-03-13\Aplicacao\bin\Release\Aplicacao.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\09 - envio de email - 05-03-13\Aplicacao\bin\Release\Dominio.dll
+E:\Asp Net\BACKUP MOTOPRATICO\09 - envio de email - 05-03-13\Aplicacao\bin\Release\MongoDB.Bson.dll
+E:\Asp Net\BACKUP MOTOPRATICO\09 - envio de email - 05-03-13\Aplicacao\bin\Release\MongoDB.Driver.dll
+E:\Asp Net\BACKUP MOTOPRATICO\09 - envio de email - 05-03-13\Aplicacao\bin\Release\Repositorio.dll
+E:\Asp Net\BACKUP MOTOPRATICO\09 - envio de email - 05-03-13\Aplicacao\bin\Release\Dominio.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\09 - envio de email - 05-03-13\Aplicacao\bin\Release\Repositorio.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\09 - envio de email - 05-03-13\Aplicacao\bin\Release\MongoDB.Bson.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\09 - envio de email - 05-03-13\Aplicacao\bin\Release\MongoDB.Bson.xml
+E:\Asp Net\BACKUP MOTOPRATICO\09 - envio de email - 05-03-13\Aplicacao\bin\Release\MongoDB.Driver.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\09 - envio de email - 05-03-13\Aplicacao\bin\Release\MongoDB.Driver.xml
+E:\Asp Net\BACKUP MOTOPRATICO\09 - envio de email - 05-03-13\Aplicacao\obj\Release\Aplicacao.csprojResolveAssemblyReference.cache
+E:\Asp Net\BACKUP MOTOPRATICO\09 - envio de email - 05-03-13\Aplicacao\obj\Release\Aplicacao.dll
+E:\Asp Net\BACKUP MOTOPRATICO\09 - envio de email - 05-03-13\Aplicacao\obj\Release\Aplicacao.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\10 - internet explorer - 08-03-13\Aplicacao\bin\Release\Aplicacao.dll
+E:\Asp Net\BACKUP MOTOPRATICO\10 - internet explorer - 08-03-13\Aplicacao\bin\Release\Aplicacao.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\10 - internet explorer - 08-03-13\Aplicacao\bin\Release\Dominio.dll
+E:\Asp Net\BACKUP MOTOPRATICO\10 - internet explorer - 08-03-13\Aplicacao\bin\Release\MongoDB.Bson.dll
+E:\Asp Net\BACKUP MOTOPRATICO\10 - internet explorer - 08-03-13\Aplicacao\bin\Release\MongoDB.Driver.dll
+E:\Asp Net\BACKUP MOTOPRATICO\10 - internet explorer - 08-03-13\Aplicacao\bin\Release\Repositorio.dll
+E:\Asp Net\BACKUP MOTOPRATICO\10 - internet explorer - 08-03-13\Aplicacao\bin\Release\Dominio.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\10 - internet explorer - 08-03-13\Aplicacao\bin\Release\Repositorio.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\10 - internet explorer - 08-03-13\Aplicacao\bin\Release\MongoDB.Bson.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\10 - internet explorer - 08-03-13\Aplicacao\bin\Release\MongoDB.Bson.xml
+E:\Asp Net\BACKUP MOTOPRATICO\10 - internet explorer - 08-03-13\Aplicacao\bin\Release\MongoDB.Driver.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\10 - internet explorer - 08-03-13\Aplicacao\bin\Release\MongoDB.Driver.xml
+E:\Asp Net\BACKUP MOTOPRATICO\10 - internet explorer - 08-03-13\Aplicacao\obj\Release\Aplicacao.csprojResolveAssemblyReference.cache
+E:\Asp Net\BACKUP MOTOPRATICO\10 - internet explorer - 08-03-13\Aplicacao\obj\Release\Aplicacao.dll
+E:\Asp Net\BACKUP MOTOPRATICO\10 - internet explorer - 08-03-13\Aplicacao\obj\Release\Aplicacao.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\11 - com representantes - 14-03-13\Aplicacao\bin\Release\Aplicacao.dll
+E:\Asp Net\BACKUP MOTOPRATICO\11 - com representantes - 14-03-13\Aplicacao\bin\Release\Aplicacao.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\11 - com representantes - 14-03-13\Aplicacao\bin\Release\Dominio.dll
+E:\Asp Net\BACKUP MOTOPRATICO\11 - com representantes - 14-03-13\Aplicacao\bin\Release\MongoDB.Bson.dll
+E:\Asp Net\BACKUP MOTOPRATICO\11 - com representantes - 14-03-13\Aplicacao\bin\Release\MongoDB.Driver.dll
+E:\Asp Net\BACKUP MOTOPRATICO\11 - com representantes - 14-03-13\Aplicacao\bin\Release\Repositorio.dll
+E:\Asp Net\BACKUP MOTOPRATICO\11 - com representantes - 14-03-13\Aplicacao\bin\Release\Dominio.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\11 - com representantes - 14-03-13\Aplicacao\bin\Release\Repositorio.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\11 - com representantes - 14-03-13\Aplicacao\bin\Release\MongoDB.Bson.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\11 - com representantes - 14-03-13\Aplicacao\bin\Release\MongoDB.Bson.xml
+E:\Asp Net\BACKUP MOTOPRATICO\11 - com representantes - 14-03-13\Aplicacao\bin\Release\MongoDB.Driver.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\11 - com representantes - 14-03-13\Aplicacao\bin\Release\MongoDB.Driver.xml
+E:\Asp Net\BACKUP MOTOPRATICO\11 - com representantes - 14-03-13\Aplicacao\obj\Release\Aplicacao.csprojResolveAssemblyReference.cache
+E:\Asp Net\BACKUP MOTOPRATICO\11 - com representantes - 14-03-13\Aplicacao\obj\Release\Aplicacao.dll
+E:\Asp Net\BACKUP MOTOPRATICO\11 - com representantes - 14-03-13\Aplicacao\obj\Release\Aplicacao.pdb
+E:\Asp Net\BACKUP MOTOPRATICO\11 - com representantes - 14-03-13\Aplicacao\bin\Release\MongoMembership.dll
+E:\Asp Net\BACKUP MOTOPRATICO\11 - com representantes - 14-03-13\Aplicacao\bin\Release\MongoMembership.pdb
+D:\Faculdade\2013\Cleyton\TCC\Aplicacao\bin\Release\Aplicacao.dll
+D:\Faculdade\2013\Cleyton\TCC\Aplicacao\bin\Release\Aplicacao.pdb
+D:\Faculdade\2013\Cleyton\TCC\Aplicacao\bin\Release\Dominio.dll
+D:\Faculdade\2013\Cleyton\TCC\Aplicacao\bin\Release\Repositorio.dll
+D:\Faculdade\2013\Cleyton\TCC\Aplicacao\bin\Release\Dominio.pdb
+D:\Faculdade\2013\Cleyton\TCC\Aplicacao\bin\Release\Repositorio.pdb
+D:\Faculdade\2013\Cleyton\TCC\Aplicacao\bin\Release\MongoDB.Bson.pdb
+D:\Faculdade\2013\Cleyton\TCC\Aplicacao\bin\Release\MongoDB.Bson.xml
+D:\Faculdade\2013\Cleyton\TCC\Aplicacao\bin\Release\MongoDB.Driver.pdb
+D:\Faculdade\2013\Cleyton\TCC\Aplicacao\bin\Release\MongoDB.Driver.xml
+D:\Faculdade\2013\Cleyton\TCC\Aplicacao\obj\Release\Aplicacao.csprojResolveAssemblyReference.cache
+D:\Faculdade\2013\Cleyton\TCC\Aplicacao\obj\Release\Aplicacao.dll
+D:\Faculdade\2013\Cleyton\TCC\Aplicacao\obj\Release\Aplicacao.pdb
